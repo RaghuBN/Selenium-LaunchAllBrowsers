@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44891" started-at="2020-07-30T19:35:31Z" finished-at="2020-07-30T19:36:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44891" started-at="2020-07-30T19:35:31Z" finished-at="2020-07-30T19:36:16Z">
+      <class name="AllBrowsers.ChromeFireFoxIE">
+        <test-method status="PASS" signature="App()[pri:0, instance:AllBrowsers.ChromeFireFoxIE@71e7a66b]" name="App" duration-ms="3805" started-at="2020-07-31T01:05:31Z" finished-at="2020-07-31T01:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- App -->
+        <test-method status="PASS" signature="Bal()[pri:0, instance:AllBrowsers.ChromeFireFoxIE@71e7a66b]" name="Bal" duration-ms="2515" started-at="2020-07-31T01:05:35Z" finished-at="2020-07-31T01:05:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bal -->
+        <test-method status="PASS" signature="Cat()[pri:0, instance:AllBrowsers.ChromeFireFoxIE@71e7a66b]" name="Cat" duration-ms="16908" started-at="2020-07-31T01:05:38Z" finished-at="2020-07-31T01:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cat -->
+        <test-method status="PASS" signature="Dog()[pri:0, instance:AllBrowsers.ChromeFireFoxIE@71e7a66b]" name="Dog" duration-ms="21637" started-at="2020-07-31T01:05:55Z" finished-at="2020-07-31T01:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dog -->
+      </class> <!-- AllBrowsers.ChromeFireFoxIE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
