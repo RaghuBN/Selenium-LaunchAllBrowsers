@@ -10,7 +10,7 @@ public class DemoChromeBrowser
 	public void Browser()
 	{
 		System.setProperty("webdriver.chrome.driver",
-				"D:\\Selenium\\Selenium Browsers Jars\\Chrome\\Chrome 84\\chromedriver.exe");
+				"D:\\Selenium\\Selenium Browsers Jars\\Chrome 84\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://automationpractice.com/index.php");
 		driver.manage().window().maximize();	
